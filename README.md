@@ -7,10 +7,9 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 ---
 ⚡️ A quick introduction
 
-🔭 I’m currently working with at Oracle with their AI Apps team.
-🌱 I’m currently learning Spring Boot.
+*🔭 I’m currently working with at Codeplay with their Apps team.
+🌱 I’m currently learning Scylla DB.
 💼 I'm open to freelancing projects.
-🤟🏻 I'm an astrophysics geek, amatuer singer, and history lover. I also write pieces of poetry, blogs, and play badminton!
-😝 Fun-Fact: I suffer from hylophobia.
-🌱 I’m currently learning Spring Boot.
-💼 I'm open to freelancing projects.
+🤟🏻 I'm an astrophysics geek, civil engineer, tech, and history lover. I also write pieces of poetry and blogs.
+😝 Fun-Fact: I love sports activities.
+
