@@ -7,9 +7,9 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 ---
 ⚡️ A quick introduction
 
-* 🔭 I’m currently working at Codeplay with their Apps team.
+* 🔭 I’m currently working at Codeplay with their Apps developement team.
 * 🌱 I’m currently learning Scylla DB.
 * 💼 I'm open to freelancing projects.
-* 🤟🏻 I'm an astrophysics geek, civil engineer, tech, and history lover. I also write pieces of poetry and blogs.
+* 🤟🏻 I'm an astrophysics geek, civil engineer, tech and history lover. I also write pieces of poetry and blogs.
 * 😝 Fun-Fact: I love sports activities.
 
