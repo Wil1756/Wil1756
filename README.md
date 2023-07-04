@@ -38,6 +38,10 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
   <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
 </p>
 
+---
+✍🏻 Medium Blogs
+[![John williams Medium](https://github-readme-medium.vercel.app/?username=johnwilliams)](https://medium.com/@johnwilliams1756)
+
 
 
 
