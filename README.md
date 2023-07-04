@@ -41,7 +41,7 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 ---
 ✍🏻 Medium Blogs
 
-[![Johnwilliams Medium](https://github-readme-medium.vercel.app/?username=absatyaprakash&limit=3)](https://medium.com/@johnwilliams1756)
+[![Johnwilliams Medium](https://github-readme-medium.vercel.app/?username=Johnwilliams&limit=3)](https://medium.com/@johnwilliams1756)
 
 
 
