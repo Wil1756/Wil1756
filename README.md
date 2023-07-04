@@ -13,3 +13,6 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 * 🤟🏻 I'm an astrophysics geek, civil engineer, tech and history lover. I also write pieces of poetry and blogs.
 * 😝 Fun-Fact: I love sports activities.
 
+
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-opio-32039b21a/)
