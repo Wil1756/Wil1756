@@ -18,7 +18,7 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 🤝🏻 Connect, Follow, Subscribe
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-opio-32039b21a/) [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://your-medium-profile-link) [![Twitter](https://img.shields.io/badge/Twitter-1ea1f1?style=for-the-badge&logo=twitter&logoColor=white)](https://your-twitter-profile-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-opio-32039b21a/) [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johnwilliams1756) [![Twitter](https://img.shields.io/badge/Twitter-1ea1f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home)
 
 
 
