@@ -45,7 +45,8 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wil1756)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wil1756&theme=dark)
+
 
 
 
