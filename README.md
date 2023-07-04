@@ -43,6 +43,8 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 
 [![Medium](https://img.shields.io/badge/Medium-Latest%20Articles-333333?style=for-the-badge&logo=medium)](https://medium.com/@johnwilliams1756)
 
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wil1756)
 
 
 
