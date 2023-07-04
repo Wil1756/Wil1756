@@ -41,7 +41,7 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 ---
 ✍🏻 Medium Blogs
 
-[![Johnwilliams Medium](https://github-readme-medium.vercel.app/?username=Johnwilliams&limit=3)](https://medium.com/@johnwilliams1756)
+[![Medium](https://img.shields.io/badge/Medium-Latest%20Articles-black?style=for-the-badge&logo=medium)](https://your-medium-profile-link)
 
 
 
