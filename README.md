@@ -41,7 +41,8 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 ---
 ✍🏻 Medium Blogs
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
+[![Medium](https://img.shields.io/badge/Medium-Latest%20Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@johnwilliams1756)
+
 
 
 
