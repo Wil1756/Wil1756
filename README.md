@@ -40,7 +40,8 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 
 ---
 ✍🏻 Medium Blogs
-[![John williams Medium](https://github-readme-medium.vercel.app/?username=johnwilliams)](https://medium.com/@johnwilliams1756)
+
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
 
 
 
