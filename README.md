@@ -15,6 +15,7 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 
 
 ---
+🤝🏻 Connect, Follow, Subscribe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-opio-32039b21a/)
 
 [![Medium](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://medium.com/@johnwilliams1756)
