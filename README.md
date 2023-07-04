@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+!!+it's+been+while+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!!+it's+been+while+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 
 Masters of crafting dynamic and immersive web experiences, fueling innovation and captivating users with every line of code.
@@ -7,7 +7,7 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 ---
 ⚡️ A quick introduction
 
-*🔭 I’m currently working with at Codeplay with their Apps team.
+* 🔭 I’m currently working with at Codeplay with their Apps team.
 🌱 I’m currently learning Scylla DB.
 💼 I'm open to freelancing projects.
 🤟🏻 I'm an astrophysics geek, civil engineer, tech, and history lover. I also write pieces of poetry and blogs.
