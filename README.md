@@ -35,7 +35,7 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
    <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>
   <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
   <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-  <img style="padding:5px;" align="center" alt="AWS" width="35px" src="URL_TO_AWS_ICON_IMAGE">
+ <img style="padding:5px;" align="center" alt="AWS" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-aws.svg"/>
 
 </p>
 
