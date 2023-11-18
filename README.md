@@ -31,7 +31,7 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
   <img style="padding:5px;" align="center" alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
   <img style="padding:5px;" align="center" alt="Tailwind CSS" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img style="padding:5px;" align="center" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
-  <img style="padding:5px;" align="center" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Expressjs/Expressjs.png"/>
+  <img style="padding:5px;" align="center" alt="Express.js" width="35px" src="URL_TO_EXPRESS_JS_LOGO_IMAGE">
   <img style="padding:5px;" align="center" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
   <img style="padding:5px;" align="center" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"/>
   <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
