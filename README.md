@@ -17,11 +17,7 @@ Masters of crafting dynamic and immersive app experiences, fueling innovation an
 ---
 🤝🏻 Connect, Follow, Subscribe
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-opio-32039b21a/)
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1ea1f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/johnwillz1756)
-
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&labelColor=black&logo=medium&logoColor=white)](https://medium.com/@johnwilliams1756)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-opio-32039b21a/)[![Twitter Badge](https://img.shields.io/badge/Twitter-1ea1f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/johnwillz1756)[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&labelColor=black&logo=medium&logoColor=white)](https://medium.com/@johnwilliams1756)
 
 ---
 
@@ -36,7 +32,6 @@ Masters of crafting dynamic and immersive app experiences, fueling innovation an
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](https://github.com/graphql/graphql-js)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](https://github.com/firebase/firebase-js-sdk)
 [![AWS Amplify Badge](https://img.shields.io/badge/-AWS_Amplify-FF9900?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](https://github.com/aws-amplify/amplify-js)
-
 
 ---
 
