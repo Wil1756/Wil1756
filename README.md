@@ -28,12 +28,11 @@ Masters of crafting dynamic and immersive web experiences, fueling innovation an
 
 ---
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/your_username/react_repository)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/your_username/javascript_repository)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/your_username/typescript_repository)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/your_username/nodejs_repository)
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQL-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](https://github.com/your_username/graphql_repository)
-
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/facebook/react)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/tc39/ecma262)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/microsoft/TypeScript)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/nodejs/node)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQL-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](https://github.com/graphql/graphql-js)
 
 ---
 
