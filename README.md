@@ -15,7 +15,7 @@ Masters of crafting dynamic and immersive app experiences, fueling innovation an
 
 
 ---
-🤝🏻 Connect, Follow, Subscribe
+🤝🏻 Connect & Follow
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-opio-32039b21a/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1ea1f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/johnwillz1756) 
 
