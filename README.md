@@ -27,7 +27,7 @@ Masters of crafting dynamic and immersive app experiences, fueling innovation an
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johnwilliams1756) 
 
 
-[![Medium](https://img.shields.io/badge/-Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johnwilliams1756)
+[![Medium Badge](https://img.shields.io/badge/-William_Opio-12100E?style=flat&labelColor=black&logo=medium&logoColor=white)](https://medium.com/@johnwilliams1756)
 
 
 
