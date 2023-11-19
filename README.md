@@ -32,6 +32,8 @@ Masters of crafting dynamic and immersive app experiences, fueling innovation an
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/nodejs/node)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](https://github.com/graphql/graphql-js)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](https://github.com/firebase/firebase-js-sdk)
+[![AWS Amplify Badge](https://img.shields.io/badge/-AWS_Amplify-FF9900?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](https://github.com/aws-amplify/amplify-js)
+
 
 ---
 
