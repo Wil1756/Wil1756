@@ -17,24 +17,11 @@ Masters of crafting dynamic and immersive app experiences, fueling innovation an
 ---
 🤝🏻 Connect, Follow, Subscribe
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-opio-32039b21a/)
-
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-opio-32039b21a/)
-
-
-
-[![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johnwilliams1756) 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1ea1f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/johnwillz1756)
 
-
-
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&labelColor=black&logo=medium&logoColor=white)](https://medium.com/@johnwilliams1756)
-
-
-
-[![Twitter](https://img.shields.io/badge/Twitter-1ea1f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnwillz1756)
 
 ---
 
