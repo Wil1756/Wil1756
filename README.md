@@ -20,7 +20,7 @@ Masters of crafting dynamic and immersive app experiences, fueling innovation an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-opio-32039b21a/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-William-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-opio-32039b21a/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-opio-32039b21a/)
 
 
 
