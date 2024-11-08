@@ -7,7 +7,7 @@ Masters of crafting dynamic and immersive app experiences, fueling innovation an
 ---
 ⚡️ A quick introduction
 
-* 🔭 I’m currently working at Codeplay with their mobile and web Apps developement team.
+* 🔭 I’m currently working at Zimba Technologies with their mobile and web Apps developement team.
 * 🌱 Learning Machine Learning.
 * 💼 I'm open to freelancing projects.
 * 🤟🏻 I'm an astrophysics geek, civil engineer, tech and history lover. I also write pieces of poetry and blogs.
