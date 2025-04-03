@@ -64,8 +64,12 @@ Software Developer @Zimba Technologies | Building fintech solutions for financia
   <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
   
   <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-  <img style="padding:5px;" align="center" alt="Pinecone" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Pinecone-logo.png"/>
-  <img style="padding:5px;" align="center" alt="Render" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Render-logo.png"/>
+  <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+  <img style="padding:5px;" align="center" alt="Pinecone" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinecone/pinecone-original.svg"/>
+  <img style="padding:5px;" align="center" alt="Render" width="35px" src="https://render.com/images/brand/render-logo.svg"/>
+  <img style="padding:5px;" align="center" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/379d7b5dc97162098b930964ec86ec9bb4165a30/topics/docker/docker.png"/>
+  <img style="padding:5px;" align="center" alt="ClickUp" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickup/clickup-original.svg"/>
+  <img style="padding:5px;" align="center" alt="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
 </p>
 
 ---
