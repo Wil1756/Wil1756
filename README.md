@@ -65,11 +65,6 @@ Software Developer @Zimba Technologies | Building fintech solutions for financia
   
   <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
   <img style="padding:5px;" align="center" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
-   <img style="padding:5px;" align="center" alt="Pinecone" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Pinecone-logo.png"/>
-  <img style="padding:5px;" align="center" alt="Render" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Render-logo.png"/>
-  <img style="padding:5px;" align="center" alt="Docker" width="35px" src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png"/>
-  <img style="padding:5px;" align="center" alt="ClickUp" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/ClickUp_logo.png"/>
-  <img style="padding:5px;" align="center" alt="Jira" width="35px" src="https://upload.wikimedia.org/wikipedia/en/8/8e/Jira_%28Software%29_logo.svg"/>
 </p>
 
 ---
