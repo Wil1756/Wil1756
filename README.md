@@ -8,7 +8,7 @@ Software Developer @Zimba Technologies | Building fintech solutions for financia
 ⚡️ A quick introduction
 
 * 🔭 I’m currently working at Zimba Technologies with their mobile and web Apps developement team.
-* 🌱 Learning Machine Learning & Generative AI.
+* 🌱 Currentl learning Machine Learning & Generative AI.
 * 💼 I'm open to freelancing projects.
 * 🤟🏻 I'm an astrophysics geek, civil engineer, tech, entrepreneur and history lover. I also write pieces of poetry and blogs.
 * 😝 Fun-Fact: I love sports activities.
@@ -75,9 +75,6 @@ Software Developer @Zimba Technologies | Building fintech solutions for financia
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wil1756&theme=dark&show_icons=true&count_private=true&include_all_commits=true)     [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wil1756&langs_count=5&theme=dark)](https://github.com/wil1756)
-
-
-
 
 
 
