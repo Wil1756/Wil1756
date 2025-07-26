@@ -10,7 +10,7 @@ Software Developer @Zimba Technologies | Building fintech solutions for financia
 * 🔭 I’m currently working at Zimba Technologies with their mobile and web Apps developement team.
 * 🌱 Currently learning Machine Learning, AI & Health Tech, Generative AI.
 * 💼 I'm open to freelancing projects.
-* 🤟🏻 I'm an astrophysics geek, civil engineer, tech, entrepreneur and history lover. I also write pieces of poetry and blogs.
+* 🤟🏻 I'm an astrophysics geek, civil engineer, tech, farmer, entrepreneur and history lover. I also write pieces of poetry and blogs.
 * 😝 Fun-Fact: I love sports activities.
 
 
