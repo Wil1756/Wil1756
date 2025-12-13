@@ -7,7 +7,7 @@ Software Engineer | Fintech Solutions & AI/ML  | Civil Engineering Background
 ---
 ⚡️ A quick introduction
 
-* 🌱 Building systems that solve real problems.
+* 🌱 Building systems that solve real world problems.
 * 💼 I'm open to freelancing projects.
 * 🤟🏻 I'm an astrophysics geek, civil engineer, tech, farmer, entrepreneur and history lover. I also write pieces of poetry and blogs.
 * 😝 Fun-Fact: I love sports activities.
